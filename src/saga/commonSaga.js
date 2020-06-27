@@ -8,5 +8,5 @@ export function* showMessage(action) {
 }
 
 export default function* watcher() {
-  yield all([debounce(500, types.SHOW_MESSAGE, showMessage)]);
+  yield all([debounce(200, types.SHOW_MESSAGE, showMessage)]);
 }

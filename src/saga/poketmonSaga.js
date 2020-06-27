@@ -11,7 +11,7 @@ export function* fetchData(_) {
     yield take(poketmonTypes.CALL_POKETMON_LIST);
     yield put(commonActions.setLoading(true));
     yield put(commonActions.showMessage('로딩중'))
-    yield delay(200);
+    yield delay(300);
     const {
       poketmon: {limit, page, list},
     } = yield select();
