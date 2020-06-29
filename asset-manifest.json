@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/poketmon/static/css/main.913b7ec6.chunk.css",
-    "main.js": "/poketmon/static/js/main.f1ddcd8c.chunk.js",
-    "main.js.map": "/poketmon/static/js/main.f1ddcd8c.chunk.js.map",
+    "main.js": "/poketmon/static/js/main.50eff3b3.chunk.js",
+    "main.js.map": "/poketmon/static/js/main.50eff3b3.chunk.js.map",
     "runtime-main.js": "/poketmon/static/js/runtime-main.fed61a2f.js",
     "runtime-main.js.map": "/poketmon/static/js/runtime-main.fed61a2f.js.map",
     "static/js/2.a6102ecd.chunk.js": "/poketmon/static/js/2.a6102ecd.chunk.js",
     "static/js/2.a6102ecd.chunk.js.map": "/poketmon/static/js/2.a6102ecd.chunk.js.map",
     "index.html": "/poketmon/index.html",
-    "precache-manifest.b5612bc10e2b80e707039547d952475e.js": "/poketmon/precache-manifest.b5612bc10e2b80e707039547d952475e.js",
+    "precache-manifest.deb0dfab2d9b927e1891b345ba07576a.js": "/poketmon/precache-manifest.deb0dfab2d9b927e1891b345ba07576a.js",
     "service-worker.js": "/poketmon/service-worker.js",
     "static/css/main.913b7ec6.chunk.css.map": "/poketmon/static/css/main.913b7ec6.chunk.css.map",
     "static/js/2.a6102ecd.chunk.js.LICENSE.txt": "/poketmon/static/js/2.a6102ecd.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fed61a2f.js",
     "static/js/2.a6102ecd.chunk.js",
     "static/css/main.913b7ec6.chunk.css",
-    "static/js/main.f1ddcd8c.chunk.js"
+    "static/js/main.50eff3b3.chunk.js"
   ]
 }

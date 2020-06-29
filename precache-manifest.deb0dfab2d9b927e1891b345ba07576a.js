@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b09e72153163d8368d27178cc20e48a",
+    "revision": "993af3767b0e83bcf2b22e367555cfcb",
     "url": "/poketmon/index.html"
   },
   {
-    "revision": "16543cd71dc4b2af1d15",
+    "revision": "ee214daeaa10400dbda9",
     "url": "/poketmon/static/css/main.913b7ec6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poketmon/static/js/2.a6102ecd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16543cd71dc4b2af1d15",
-    "url": "/poketmon/static/js/main.f1ddcd8c.chunk.js"
+    "revision": "ee214daeaa10400dbda9",
+    "url": "/poketmon/static/js/main.50eff3b3.chunk.js"
   },
   {
     "revision": "7ab564df44505305def7",
