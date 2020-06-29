@@ -13,7 +13,7 @@ const rootReducer = combineReducers({
 
 const store = createStore(
   rootReducer,
-  compose(applyMiddleware(sagaMiddleware), composeWithDevTools()),
+  compose(composeWithDevTools(applyMiddleware(sagaMiddleware))),
 );
 
 export default store;
