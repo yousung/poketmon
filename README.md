@@ -7,4 +7,7 @@
 - Redux-saga
 
 ## 만들 내용
-- poketmon api 를 활용하여 poketmon 사전 
+- poketmon api 를 활용하여 poketmon 사전
+
+## TODO
+- 반응형 CSS
